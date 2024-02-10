@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     // Declare variables to store the numbers
     int num1, num2;
